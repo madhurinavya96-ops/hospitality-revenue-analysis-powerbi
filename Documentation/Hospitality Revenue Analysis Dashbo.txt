@@ -1,0 +1,15 @@
+Hospitality Revenue Analysis Dashboard
+
+Tools:
+Power BI
+DAX
+Excel
+
+KPIs:
+- Revenue
+- Occupancy Rate
+- ADR
+- RevPAR
+
+Purpose:
+Analyze hospitality performance and identify revenue trends.
