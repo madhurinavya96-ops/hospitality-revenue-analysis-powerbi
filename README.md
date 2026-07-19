@@ -26,4 +26,20 @@ This project analyzes hospitality business performance using Power BI. The dashb
 - Interactive Filters
 - KPI Cards
 - Monthly Performance
+- Key Findings
+  ##key findings
+* Revenue peaked at ₹683.88M in May, dipped in June, and recovered to ₹671.72M in July.
+* ADR remained stable at approximately ₹15K, indicating a consistent pricing strategy.
+* Realization improved from 69.82% to 70.57%, reflecting better booking conversion.
+* Luxury room categories generated over 60% of total revenue throughout the analysis period.
+* Mumbai properties consistently ranked among the highest revenue contributors.
+* Weekly occupancy and RevPAR remained relatively stable, demonstrating consistent hotel performance.
+* The dashboard enables management to monitor KPIs, identify high-performing properties, evaluate booking platform performance, and
+ support data-driven pricing and operational decisions.
+##Recommendations
+* Focus marketing campaigns on high-performing Luxury room categories to maximize revenue.
+* Investigate the revenue decline observed in June and identify contributing factors such as demand or cancellations.
+* Replicate best practices from top-performing Mumbai properties across other cities.
+* Continue initiatives that improved realization from 69.82% to 70.57%.
+* Monitor booking platforms with lower realization rates and optimize channel performance.
   
